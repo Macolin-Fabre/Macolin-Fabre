@@ -1,7 +1,7 @@
 ## Olá Pessoal! Estudante Macolin Miguel Fabre Melo 👋
 
 - 🧑🏻‍🏫 Estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado às aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
+- 💻 Perfil destinado às aulas de Linguagem de Programação, Lógica de Programação, Banco de Dados e programação para WEB.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macolin-Fabre&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Macolin-Fabre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
